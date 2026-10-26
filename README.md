@@ -1,6 +1,7 @@
 <div align="center">
 
-(https://github.com/Sarowarraaja-39/Sarowarraaja-39/blob/main/From%20Backbone%20to%20Security%20Insight.png)
+![SRM banner — Sarowar Raaja Manikandan, Network & Security Engineer](./From%20Backbone%20to%20Security%20Insight.png)
+
 # Sarowar Raaja Manikandan
 ### Network & Security Engineer
 **Network operations · Security monitoring · Python automation**
@@ -81,6 +82,24 @@ I investigate network faults, document controlled changes and explain findings t
 ## Community
 
 Volunteer Accessibility Analyst at **The Cyber Helpline**.
+
+## GitHub analytics
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarowarraaja-39&amp;theme=tokyonight"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarowarraaja-39&amp;theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarowarraaja-39&amp;theme=github" alt="GitHub profile overview and contribution activity for Sarowarraaja-39" width="100%"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarowarraaja-39&amp;theme=tokyonight"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarowarraaja-39&amp;theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarowarraaja-39&amp;theme=github" alt="Top languages across GitHub repositories" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarowarraaja-39&amp;theme=tokyonight&amp;timeZone=Europe%2FLondon"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarowarraaja-39&amp;theme=github&amp;timeZone=Europe%2FLondon"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarowarraaja-39&amp;theme=github&amp;timeZone=Europe%2FLondon" alt="GitHub commit times in Europe/London, with daylight saving time" width="49%"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarowarraaja-39&amp;theme=tokyonight"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarowarraaja-39&amp;theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarowarraaja-39&amp;theme=github" alt="GitHub stars, commits, pull requests, issues and contributed repositories" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarowarraaja-39&amp;theme=tokyonight"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarowarraaja-39&amp;theme=github"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarowarraaja-39&amp;theme=github" alt="Top languages associated with GitHub commits" width="49%"></picture>
+</p>
+
+*Activity cards are supplied by GitHub Profile Summary Cards and may be cached. Language charts describe repository activity, rather than proficiency.*
+
+<!-- External image service; availability and counts depend on the provider and GitHub API. No private-repository credential is embedded in this README. -->
 
 ## Explore my GitHub
 
